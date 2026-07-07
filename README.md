@@ -5,4 +5,3 @@ Toronto-based Software Engineer at [Viral Nation](https://github.com/viralnation
 - 🔭 Currently working with **Svelte/SvelteKit, TypeScript, Node.js, Fastify**, and BFF architecture, deployed on **GCP / Cloud Run**
 - 🎓 Business graduate turned engineer — made the leap through a coding bootcamp and never looked back
 - 🎸 Off-keyboard, you'll find me on GTA hiking trails, at live shows, or working out a new riff on guitar
-- 👀 **Open to new opportunities** — if you're hiring for a full-stack/frontend role, let's talk
