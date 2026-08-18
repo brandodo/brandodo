@@ -1,8 +1,8 @@
 ### Hey, I'm Brandon 👋
 
-Toronto-based Software Engineer, currently open to new opportunities.
+Full-stack engineer in Toronto, building data-heavy web products. Currently open to new roles.
 
-Four years of building production software. Most recently at [Viral Nation](https://github.com/viralnation), working on data-driven tools for social media marketers. I've also TA'd two cohorts at BrainStation, which is the same bootcamp that got me here, so I got to watch people have the exact same "oh, that's how it works" moment I did.
+Four years of production software, most recently at [Viral Nation](https://github.com/viralnation) working on data-driven tools for social media marketers.
 
 ### Tools I work with
 
